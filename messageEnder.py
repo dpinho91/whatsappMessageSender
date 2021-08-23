@@ -54,6 +54,7 @@ contacts = ('Tia Eda', \
             'Gamaltaly', \
             'Ameplan', \
             'Finandina', \
+            'Banco Digimais', \
             )
 
 # Message to be sent
