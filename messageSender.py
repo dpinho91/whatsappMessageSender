@@ -34,6 +34,13 @@ contacts = ('Tia Eda', \
             'Ragazzo SAC', \
             'Enel-X', \
             'Funchal', \
+            'Kroton - Anhanguera', \
+            'Kroton - Fama', \
+            'Kroton - Pitágoras', \
+            'Kroton - Unirc', \
+            'Kroton - Unime', \
+            'Kroton - Uniderp', \
+            'Kroton Homologação', \
             'Leve Saúde', \
             'Leve Clínica', \
             'Unimed Unimed', \
